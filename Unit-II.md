@@ -1,9 +1,5 @@
 # Unit-II: Sorting Algorithms
 
-## Detailed Notes for Exam Preparation
-
------
-
 ## 1. INTRODUCTION TO SORTING
 
 ### 1.1 What is Sorting?
