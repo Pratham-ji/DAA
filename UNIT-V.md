@@ -1,4 +1,4 @@
-# Unit V - Hashing, String Matching and NP-Completeness
+# Unit V - Hashing, String Matching and NP-Completeness.
 
 ## 1. INTRODUCTION TO HASHING
 
